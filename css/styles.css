@@ -1,0 +1,138 @@
+body{
+  background-color: rgb(78, 78, 78);
+  font-family: Arial;
+}
+
+h1{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 50px;
+  margin-left: 10px;
+}
+
+h2{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 25px;
+  margin-left: 10px;
+}
+
+h3{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 25px;
+  margin-left: 10px;
+}
+
+p{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.page-title{
+  display: inline-block;
+  background-color: gray;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  border: none;
+}
+
+.page-content{
+  display: inline-block;
+  background-color: gray;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 800px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  border: none;
+}
+
+.page-links{
+  margin-top: 20px;
+}
+
+button{
+  background-color: rgb(131, 93, 167);
+  font-size: medium;
+  border-style: solid;
+  border-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: rgb(141, 111, 168);
+  color:rgb(32, 32, 32)
+}
+
+.next-button{
+  margin-left: 10px;
+  text-align: right;
+}
+
+.back-button{
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.wizware-logo{
+  vertical-align: bottom;
+  margin-left: 200px;
+  height: 225px;
+}
+
+.humhub-img{
+  height: 400px;
+  vertical-align: top;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+
+.html-css{
+  margin-left: 50px;
+  vertical-align: bottom;
+}
+
+.php-image{
+  height: 300px;
+}
+
+.project-example{
+  height: 450px;
+  margin-top: 30px;
+  margin-left: 30px;
+  vertical-align: bottom;
+}
+
+.sql-image{
+  height: 250px;
+  margin-left: 100px;;
+}
+
+.mines-image{
+  height: 400px;
+  vertical-align: top;
+  margin-left: 30px;
+  margin-top: 10px;;
+}
+
+.what-next{
+  height: 400px;
+  vertical-align: top;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
